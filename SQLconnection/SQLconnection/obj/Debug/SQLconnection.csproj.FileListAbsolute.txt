@@ -1,8 +1,0 @@
-C:\Projects\SQLconnection\SQLconnection\bin\Debug\SQLconnection.exe.config
-C:\Projects\SQLconnection\SQLconnection\bin\Debug\SQLconnection.exe
-C:\Projects\SQLconnection\SQLconnection\bin\Debug\SQLconnection.pdb
-C:\Projects\SQLconnection\SQLconnection\obj\Debug\SQLconnection.csproj.AssemblyReference.cache
-C:\Projects\SQLconnection\SQLconnection\obj\Debug\SQLconnection.csproj.SuggestedBindingRedirects.cache
-C:\Projects\SQLconnection\SQLconnection\obj\Debug\SQLconnection.csproj.CoreCompileInputs.cache
-C:\Projects\SQLconnection\SQLconnection\obj\Debug\SQLconnection.exe
-C:\Projects\SQLconnection\SQLconnection\obj\Debug\SQLconnection.pdb
