@@ -11,14 +11,14 @@ namespace sqlconnection_class
     {
         static void Main(string[] args)
         {
-            create Create = new create();
-            Create.Createuser();
+            //create Create = new create();
+            //Create.Createuser();
             Read_data read_Data = new Read_data();
             read_Data.Readdata();
-            update Update=new update();
-            Update.updatedata();
-            Delete delete=new Delete();
-            delete.DeleteData();
+            //update Update=new update();
+            //Update.updatedata();
+            //Delete delete=new Delete();
+            //delete.DeleteData();
 
         }
     }
